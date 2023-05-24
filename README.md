@@ -1,4 +1,4 @@
-Projeto Web utilizando Java, Bootstrap, Postgress desenvolvido para a cadeira de Projeto Integrador 09 no semestre 2023A
+Desenvolvimento Android/Java realizado para a cadeira de Projeto Integrador 9.
 
 Video de apresentação do projeto
 https://www.youtube.com/watch?v=RyRZYYYCs0w
