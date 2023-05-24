@@ -1,4 +1,3 @@
-Desenvolvimento Android/Java realizado para a cadeira de Projeto Integrador 9.
+Projeto Web utilizando Java, Postgres, e Bootstrap.
 
-Video de apresentação do projeto
-https://www.youtube.com/watch?v=RyRZYYYCs0w
+Vídeo: https://www.youtube.com/watch?v=6xuF2p5PBrM
